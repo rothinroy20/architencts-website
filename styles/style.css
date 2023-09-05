@@ -12,6 +12,7 @@
 }
 .text-light-gray{
     color: #727272;
+    padding: 30px;
 }
 
 .brand-name{
@@ -167,6 +168,7 @@ main{
     border: 1px solid #FF900E;
     text-align: center;
     padding: 30px;
+    margin: 10px;
 }
 .facts-card-container .card-title{
     font-weight: 600;
@@ -220,6 +222,7 @@ main{
     }
     .feature-img img{
         height: 90%;
+        width: 300px;
     }
     .teams-content{
         padding-right: 20px;
